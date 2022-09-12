@@ -1,0 +1,8 @@
+C:\Users\david\source\repos\Opgave 5 ConCalc\Opgave 5 ConCalc\bin\Debug\Opgave 5 ConCalc.exe.config
+C:\Users\david\source\repos\Opgave 5 ConCalc\Opgave 5 ConCalc\bin\Debug\Opgave 5 ConCalc.exe
+C:\Users\david\source\repos\Opgave 5 ConCalc\Opgave 5 ConCalc\bin\Debug\Opgave 5 ConCalc.pdb
+C:\Users\david\source\repos\Opgave 5 ConCalc\Opgave 5 ConCalc\obj\Debug\Opgave 5 ConCalc.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\Opgave 5 ConCalc\Opgave 5 ConCalc\obj\Debug\Opgave 5 ConCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\david\source\repos\Opgave 5 ConCalc\Opgave 5 ConCalc\obj\Debug\Opgave 5 ConCalc.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Opgave 5 ConCalc\Opgave 5 ConCalc\obj\Debug\Opgave 5 ConCalc.exe
+C:\Users\david\source\repos\Opgave 5 ConCalc\Opgave 5 ConCalc\obj\Debug\Opgave 5 ConCalc.pdb
